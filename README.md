@@ -1,11 +1,11 @@
-### Olá! Eu sou Katchau27
+### Heyy! Meu nome é Bruno Oshiro
 
 - 🔭Trabalho com front-end
-- 🌱 Estudando Javascript
+- 🌱 Estudando React
 - 📫 Contate-me no email: brunooshiro27@gmail.com
 - 😄 Pronouns: ele/dele
 
-## heyy, meu nome é Bruno e sou um desenvolvedor front end ( •̀ ω •́ )✧
+## Heyy, meu nome é Bruno e sou um desenvolvedor front end ( •̀ ω •́ )✧
 <div align="center">
   <a href="https://github.com/katchau27">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=katchau27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
